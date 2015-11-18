@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "bluebird": "^2.9.25",
+    "clone": "^1.0.2",
     "lodash": "^2.4.1",
     "semver": "^4.3.6"
   }
